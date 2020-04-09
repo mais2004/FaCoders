@@ -3,13 +3,13 @@
 
 ### Name: Mais Salman
 
-*_Course-1:_
+* __Course-1:__
     [Introduction to Python](https://www.udemy.com/course/introduction-to-python)
 
     
-*_Coure-2:_
+* __Coure-2:__
     [Introduction to Git and GitHub](https://www.udemy.com/course/introduction-to-git-and-github)
     
     
-*_Course-3:_
+* __Course-3:__
     [The Basics of Website Building Using: HTML, CSS, and JavaScript.](https://www.udemy.com/course/html-css-javascript-arabic)
